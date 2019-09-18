@@ -3,6 +3,8 @@ import sun.reflect.generics.reflectiveObjects.NotImplementedException;
 import java.util.Arrays;
 import java.util.NoSuchElementException;
 
+/// Sigurd Øvre Bjørndal, S333741
+
 
 public class Oblig1 {
 
